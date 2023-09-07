@@ -29,7 +29,7 @@ Feel free to explore these projects and provide feedback or contributions if you
 I'm always open to collaboration and discussions. If you have any questions, ideas, or just want to say hello, please don't hesitate to reach out to me:
 
 - Email: [kumarsumitr33@gmail.com]
-- LinkedIn: [linkedin.com/in/sumit-kumar-953bb7257]
+- LinkedIn: [https://www.linkedin.com/in/sumit-kumar-953bb7257/]
 - Intagram: [https://www.instagram.com/me_anuragsingh/]
 
 ## Support My Work
