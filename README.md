@@ -14,7 +14,7 @@ Java and C++ programing languages.
 Here are a few highlighted projects you might find interesting:
 
 1. [Number guessing game](Link to the Project Repository): I have created a number guessing , as a tsk assigned me by a company during my virtual intrnship program bsed upon the C++ programing .
-2. [Simple calcullator](Link to the Project Repository): I was assigned an simple task , to design a simple callculator by using the C++ programing language during my intrnship.
+2. [Simple calcullator](https://github.com/Sumitkumar033/codsoft/commit/8f7482a277334a06eee5e711d81a8613c669e168): I was assigned an simple task , to design a simple callculator by using the C++ programing language during my intrnship.
 3. [Tic Tac Toe game](Link to the Project Repository): I have desgined a simple game called TIC TAC TOE , during my virtual intrnship by the help of the C++ programing.
 4. [Project Name](Link to the Project Repository): A brief description of the project and its significance.
 5. [Project Name](Link to the Project Repository): A brief description of the project and its significance.
