@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, and welcome to my GitHub account! I'm sumit kumar, a student of btech 3rd year based at Sagar Institute Of Research And Technology. I'm passionate about 
+Hello, and welcome to my GitHub account! I'm sumit kumar, a student of btech 3rd year  at Sagar Institute Of Research And Technology. I'm passionate about 
 Java and C++ programing languages.
 
 ## What You'll Find Here
